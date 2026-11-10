@@ -17,4 +17,6 @@ Left shows unmodified `4.2.12`. Right shows the same fixture with only the Andro
 
 ![Open drawer comparison on Android](evidence/android-comparison.png)
 
+[Watch the tap-to-open comparison](evidence/android-drawer-demo.mp4).
+
 Codex prepared the reproduction app and assisted with the emulator verification.
